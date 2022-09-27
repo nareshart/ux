@@ -1,0 +1,30 @@
+
+
+.content {
+  max-width: 70%;
+  margin: auto;
+  background: white;
+  padding: 10px;
+  /*background-color: #f5faf6;*/
+}
+/* table*/
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  /*border: 1px solid #ddd;*/
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  max-width: 50%;
+}
+
+.greet{
+  color:white;
+  padding:3%;
+  font-family: 'Montserrat';
+  font-size:48px;
+  text-align: center;
+}
